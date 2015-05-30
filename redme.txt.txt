@@ -1,0 +1,38 @@
+=== WDWIL Page Content Block ===
+Contributors: khilan_shine, khilan.s3@gmail.com
+Donate link: http://wdwil.com/
+Tags: wdwil, page content, page content block, block page, page blocker, content block, logged in content view, log in content, spam
+Requires at least: 3.0.1
+Tested up to: 4.2
+Stable tag: 4.3
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This Plugin helps you to block the page content for non-logged in user. Very Simple plugin in which you just have to install and add the shortcode to the page which you want to block for non-logged in user.
+
+== Description ==
+
+This Plugin helps you to block the page content for non-logged in user. Very Simple plugin in which you just have to install and add the shortcode to the page which you want to block for non-logged in user. For more detail email at khilan.s3@gmail.com
+
+== Installation ==
+
+This section describes how to install the plugin and get it working.
+
+e.g.
+
+1. Upload plugin file(wdwil-bl.zip) to the /wp-content/plugins/ directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Add the shortcode [block-page] to the page which you want to block for non-logged in user.
+
+
+== Screenshots ==
+
+
+== Changelog ==
+
+= 1.0 =
+* Plugin is launch
+
+
+
+
